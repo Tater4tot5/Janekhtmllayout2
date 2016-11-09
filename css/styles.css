@@ -1,0 +1,258 @@
+.blueheader {
+  height: 47px;
+  max-width: 457px;
+  background-color: #118bc0;
+}
+
+.blueheader div {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+.whiteboxhead1 {
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  left: 10px;
+}
+.logo1 {
+  height: 30px;
+  width:30px;
+}
+.whiteboxhead2 {
+  color: white;
+  font-family: Geneva;
+  top: 5px;
+  left: 20px;
+  margin: 10px 0px;
+}
+
+.blueboxhead {
+  background-color: #0070A4;
+  height: 47px;
+  width: 100px;
+  top: 0px;
+  float: right;
+}
+
+h3 {
+  text-align: center;
+  font-family: Geneva;
+  color:white;
+}
+
+.login {
+  font-size: 12px;
+  margin: 0 auto;
+}
+
+.lrgnavybox {
+  height: 1140px;
+  background-color: #344051;
+  overflow: hidden;
+  max-width: 457px;
+  text-align: center;
+  position: relative;
+  background: url(../images/crowd.jpg);
+}
+
+.firstheader {
+  color:white;
+  font-family: Geneva;
+  font-size: 30px;
+  padding: 0px 30px;
+  margin: 0 auto;
+  position: relative;
+  top:170px;
+}
+
+
+.lrgnavybox p {
+  color:white;
+  width: 300px;
+  margin:40px auto;
+  position: relative;
+  top: 170px;
+}
+
+.buttonwrap {
+  height:50px;
+  width:208px;
+  margin:0 auto;
+  position: relative;
+  top: 170px;
+  border: 10px solid rgba(33, 51, 94, 0.5);
+}
+
+.smallbluebox {
+  background-color: #118bc0;
+  height:50px;
+  width:208px;
+  margin:0 auto;
+  position: relative;
+}
+
+.createsite {
+  font-size: 20px;
+  display: inline-block;
+  margin: 15px auto;
+}
+
+
+.whitebox1 {
+  background-color: transparent;
+  height:70px;
+  width: 300px;
+  margin: 30px auto;
+  position: relative;
+  top: 490px;
+  }
+
+.greyleft {
+    background-color: transparent;
+    height: 60px;
+    width: 55px;
+    float:left;
+    margin: 10px 0 0 0;
+}
+.greyright {
+  background-color:transparent;
+  height: 60px;
+  width: 225px;
+  float:right;
+}
+
+h2 {text-align: left;
+font-family: Geneva;
+}
+
+.lrggreytxt {
+  font-size: 18px;
+  position: relative;
+  color: white;
+}
+.greytext {
+  color:lightgrey;
+  font-size: 13px;
+  position: relative;
+  padding-top: 10px;
+  bottom:15px;
+}
+  .ltbluebox {
+    height: 1860px;
+    width: 457px;
+    background-color: #E8F0F5;
+    overflow: hidden;
+    clear:both;
+    text-align: center;
+  }
+  .firstblurb {
+    text-align: center;
+    font-size: 30px;
+    font-family: Calibri;
+    margin:35px 15px;
+  }
+  .greybox {
+    height: 1470px;
+    background-color: #D1D3D7;
+    position: relative;
+    overflow: hidden;
+  }
+  .whitebox2 {
+    background-color: white;
+    height:210px;
+    width: 430px;
+    margin: 30px auto;
+    overflow: hidden;
+  }
+
+.whitebox2 div {
+  margin: 20px auto;
+  background-color: #C7D2D8;
+}
+  .greysquare {
+    height:60px;
+    width: 60px;
+    margin: 25px auto;
+    border-radius: 100%;
+  }
+  .bubbleimage {
+    height: 35px;
+    width: 35px;
+    margin: 15px 10px;
+  }
+
+  .bluetext {
+    color: #344051;
+    height: 45px;
+    width:400px;
+    background-color: white;
+  }
+
+  .greybar1 {
+    height: 20px;
+    width:400px;
+  }
+
+  .bluep {
+    font-family: Geneva;
+    text-align: center;
+    height: 45px;
+    width:400px;
+    background-color: white;
+  }
+
+  .greybar2 {
+    height: 45px;
+    width:400px;
+    background-color: white;
+  }
+
+  .lastbluebox {
+    background-color: #118bc0;
+    height:50px;
+    width:208px;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+  }
+.lastblurb {
+  text-align: center;
+  font-size: 30px;
+  color: #344051;
+  font-family: Calibri;
+  margin:35px 15px;
+}
+
+.lastheader {
+  margin: 15px 20px 40px;
+}
+.blkbox {
+  height: 130px;
+  width: 457px;
+  background-color: black;
+  overflow: hidden;
+}
+
+ul {
+  text-align: center;
+  padding: 0px 20px;
+}
+a {
+  color: white;
+  font-size: 10px;
+  text-decoration: none;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  }
+
+.footer {
+  display: inline;
+  margin: 0 auto;
+}
+
+.lastimg {
+display: inline-block;
+width: 150px;
+padding: 20px 100px;
+}
